@@ -15,7 +15,7 @@ import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 
 /**
- * @author snail8
+ * @author nuudng
  *
  */
 public class FileChange {
