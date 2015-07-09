@@ -19,7 +19,7 @@ import java.io.UnsupportedEncodingException;
  *
  */
 public class FileChange {
-	private static final String dir_path = "/opt/Documents/API/ebuild";
+	private static final String dir_path = "/opt/Documents/API/";
 
 	/**
 	 * @param args
